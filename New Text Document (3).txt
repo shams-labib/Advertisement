@@ -1,0 +1,1 @@
+footer navber, majhe outlet dekhanor jonno: flex-1 flex-cols, min-h-screen 

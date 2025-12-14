@@ -1,0 +1,2 @@
+1. Module num 38, ekhane lift arm state somporke jante hobe sokale
+2. havvy ekta jinish seta hosce "container mx-auto" er maddome tailwind diye ami automatic fixd width set kore dite parbo tag er maddome
